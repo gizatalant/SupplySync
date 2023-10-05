@@ -1,0 +1,23 @@
+<!--<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">-->
+<!--<suite name="ParallelTest" parallel="classes" thread-count="3">-->
+<!--    <test name="ParallelTest">-->
+<!--        <classes>-->
+<!--            <class name="tests.Practice.LoginTest">-->
+<!--                <methods>-->
+<!--                    <exclude name="loginTest1"></exclude>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="SignUpTest">-->
+<!--        <classes>-->
+<!--            <class name="tests.Practice.SignUpTest"></class>-->
+<!--            <class name="tests.Practice.SearchTest">-->
+<!--                <methods>-->
+<!--                    <include name="searchTest3"></include>-->
+<!--                    <include name="searchTest4"></include>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--</suite>-->

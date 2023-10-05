@@ -1,0 +1,43 @@
+<!--<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">-->
+<!--<suite name="SmokeSuite"  parallel="tests" thread-count="4">-->
+<!--    <test name="SmokeTest" parallel="methods" thread-count="2">-->
+<!--        <classes>-->
+<!--            <class name="tests.Practice.LoginTest">-->
+<!--                <methods>-->
+<!--                    <include name="loginTest1"></include>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--<test name="SignUpTest">-->
+<!--    <classes>-->
+<!--        <class name="tests.Practice.SignUpTest">-->
+<!--            <methods>-->
+<!--                <include name="signUpTest2"></include>-->
+<!--            </methods>-->
+<!--        </class>-->
+<!--    </classes>-->
+<!--</test>-->
+
+<!--    <test name="CheckOutTest">-->
+<!--        <classes>-->
+<!--            <class name="tests.Practice.CheckOutTest">-->
+<!--                <methods>-->
+<!--                    <include name="checkOut1"></include>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--        </classes>-->
+<!--    </test>-->
+
+<!--    <test name="SearchTest">-->
+<!--        <classes>-->
+<!--            <class name="tests.Practice.SearchTest">-->
+<!--                <methods>-->
+<!--                    <include name="searchTest4"></include>-->
+<!--                </methods>-->
+<!--            </class>-->
+
+<!--        </classes>-->
+<!--    </test>-->
+
+<!--</suite>-->

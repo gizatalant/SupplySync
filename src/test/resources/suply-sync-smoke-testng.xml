@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SmokeSuite" >
+    <test name="SmokeTest" >
+        <classes>
+            <class name="tests.SuplySync.TestPOM"></class>
+<!--            <class name="tests.SuplySync.MainPage1"></class>-->
+<!--            <class name="tests.SuplySync.CommonPage"></class>-->
+<!--            <class name="tests.SuplySync.LoginPage"></class>-->
+<!--            <class name="tests.SuplySync.CompaniesPage"></class>-->
+<!--            <class name="tests.SuplySync.MastersPage"></class>-->
+<!--            <class name="tests.SuplySync.LogoutPage"></class>-->
+        </classes>
+    </test>
+</suite>

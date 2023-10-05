@@ -1,0 +1,15 @@
+<!--<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">-->
+<!--<suite name="RegressionTest">-->
+
+<!--    <test name="RegressionTest">-->
+
+<!--        <classes>-->
+<!--            <class name="tests.Practice.LoginTest"></class>-->
+<!--            <class name="tests.Practice.SearchTest"></class>-->
+<!--            <class name="tests.Practice.CheckOutTest"></class>-->
+<!--            <class name="tests.Practice.SignUpTest"></class>-->
+<!--        </classes>-->
+
+<!--    </test>-->
+
+<!--</suite>-->
