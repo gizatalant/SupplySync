@@ -187,7 +187,6 @@ public class TestPOM {
         String expectedURL = "https://supplysync.us/login";
         String actualURL = driver.getCurrentUrl();
         Assert.assertEquals(actualURL, expectedURL, "User successfully logged out");
-
     }
 
 }
